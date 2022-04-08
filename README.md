@@ -6,7 +6,7 @@
 ##### Em uma analogia, pode-se enxergar as estratégias não personalizadas como a vitrine de uma loja, onde o comerciante coloca suas melhores opções não pensando apenas em uma pessoa, mas sim em atrair o maior número de pessoas possíveis.
 
 
-# Sistema de Recomendação Personalizado
+# Sistema de Recomendação Personalizado - Filtragem Colaborativa
 
 #### Sobre
 
