@@ -1,4 +1,4 @@
-# Sistema de Recomendação Não-Personalizado: Filmes que são frequentemente assistidos pelas mesmas pessoas
+# Sistema de Recomendação Não-Personalizado
 
 #### Sobre
 
@@ -6,7 +6,7 @@
 ##### Em uma analogia, pode-se enxergar as estratégias não personalizadas como a vitrine de uma loja, onde o comerciante coloca suas melhores opções não pensando apenas em uma pessoa, mas sim em atrair o maior número de pessoas possíveis.
 
 
-# Sistema de Recomendação Personalizado: Filmes que são frequentemente assistidos pelas mesmas pessoas
+# Sistema de Recomendação Personalizado
 
 #### Sobre
 
